@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "61800313627",
+    "project_id": "one-bond-app",
+    "storage_bucket": "one-bond-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61800313627:android:8017e18dedf7e8e43e99be",
+        "android_client_info": {
+          "package_name": "com.example.crypto_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDT1hP1SX40zmNX0tg_zrDMIZJmrE9vo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
